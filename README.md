@@ -104,7 +104,3 @@ OUTPUT: values provided by the c++ program to the simulator
 ["best_particle_sense_x"] <= list of sensed x positions
 
 ["best_particle_sense_y"] <= list of sensed y positions
-
-
-
-# kidnapped-vehicle
